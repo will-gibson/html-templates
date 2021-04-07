@@ -1,4 +1,4 @@
-# HTML Templates
+# WordPress Snippets
 
 > Responsive code snippets that allow for expanded functionality of WordPress websites.
 
