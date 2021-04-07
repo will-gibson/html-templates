@@ -1,4 +1,6 @@
-Allows contributor accounts to upload images to their articles, without granting them any additional privileges or rights. Paste it in the functions.php file of your theme.
+Allows contributor accounts to upload images to their articles, without granting them any additional privileges or rights.
+
+Paste the following in the functions.php file of your theme:
 
 ```
 if ( current_user_can('contributor') && !current_user_can('upload_files') )
